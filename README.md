@@ -4,21 +4,21 @@
 
 ## Project Overview
 
-Data Visualizer is a Python-based project focused on transforming structured datasets into meaningful visual insights.
+Data Visualizer is a Python-based analytical project focused on transforming structured datasets into meaningful visual representations.
 
-The project demonstrates how raw numerical and categorical data can be analyzed and presented using clear and structured visualizations to support decision-making.
+The project demonstrates how data can be explored, analyzed, and presented using visual techniques to highlight trends, comparisons, and performance insights.
 
-It emphasizes data storytelling through graphical representation and analytical interpretation.
+It emphasizes data storytelling and the effective communication of analytical findings.
 
 ---
 
 ## Project Objective
 
-* Analyze structured datasets using Python
-* Create clear and informative visualizations
-* Identify trends, patterns, and comparisons
-* Support data-driven decision making
-* Demonstrate practical data visualization techniques
+* Perform exploratory data analysis using Python
+* Create structured and meaningful visualizations
+* Identify trends, patterns, and correlations
+* Convert analytical results into visual insights
+* Strengthen practical data visualization skills
 
 ---
 
@@ -28,11 +28,11 @@ It emphasizes data storytelling through graphical representation and analytical 
 
 The notebook includes:
 
-* Data loading and preprocessing
-* Exploratory data analysis
+* Data loading and inspection
+* Data cleaning and preprocessing
+* Grouping and aggregation
 * Multiple visualization techniques
-* Comparative and trend analysis
-* Insight interpretation
+* Analytical interpretation of results
 
 ---
 
@@ -47,41 +47,41 @@ The notebook includes:
 
 ---
 
-## Analytical & Visualization Techniques Demonstrated
+## Techniques Demonstrated
 
-### Data Preparation
+### Data Exploration
 
-* Handling missing values
-* Data structuring
+* Descriptive statistics
+* Data validation
 * Aggregation and grouping
 
 ---
 
-### Visualization Methods
+### Data Visualization
 
-* Bar charts for category comparison
+* Bar charts for categorical comparison
 * Line charts for trend analysis
-* Distribution plots
-* Correlation analysis
-* Comparative visual dashboards
+* Distribution analysis
+* Comparative visual analysis
+* Correlation-based insights
 
 ---
 
-### Insight Generation
+### Insight Interpretation
 
-* Performance trend identification
+* Identification of performance trends
 * Pattern recognition
-* Category-based comparisons
-* Summary-level business observations
+* Data-driven conclusions
+* Structured analytical observations
 
 ---
 
 ## Business Value
 
-* Converts analytical results into visual insights
-* Improves interpretability of data
-* Supports executive-level reporting
-* Demonstrates strong data storytelling ability
+* Enhances data interpretation through visualization
+* Supports decision-making with graphical insights
+* Demonstrates practical application of Python in analytics
+* Showcases analytical communication skills
 
 ---
 
@@ -97,9 +97,9 @@ The notebook includes:
 
 * Data Visualization
 * Exploratory Data Analysis
-* Analytical Interpretation
-* Trend & Pattern Identification
-* Data Storytelling
+* Analytical Thinking
+* Data Interpretation
+* Business Insight Communication
 
 ---
 
